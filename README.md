@@ -1,27 +1,20 @@
-# Helpdesk
+# Helpdesk - Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+## Functional Overview
+This project has a complete web application with CRUD (CREATE, READ, UPDATE, and DELETE) functionality for a small business to open and close service orders.
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This repository contains the source code for the front end of the Helpdesk project, developed with Angular 12. The system aims to provide an interactive and responsive interface for managing technical support tickets.
 
-## Code scaffolding
+## Technologies and Tools Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Framework and Architecture
+- **Angular 12** → Used for building the interface based on the MVC (Model-View-Controller) architecture.
+- **Angular Material** → Component library to enhance user experience.
+- **Angular Reactive Forms** → Implementation of reactive forms for better data management.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Languages and Standards
+- **TypeScript** → Main project language, adding typing and advanced features to JavaScript.
+- **HTML5** → Used to structure the pages and components of the application.
+- **CSS3** → Applied for styling and responsiveness of the user interface.
