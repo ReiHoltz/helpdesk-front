@@ -22,8 +22,8 @@ This repository contains the source code for the front end of the Helpdesk proje
 ## Installation
 To run this project locally, follow the steps below:
 
-1. Clone the repository:
-   git clone https://github.com/yourusername/helpdesk-frontend.git
+1. Clone the repository:  
+   git clone https://github.com/ReiHoltz/helpdesk-front.git
 2. Install the dependencies:
    npm install
 3. Run the development server:
